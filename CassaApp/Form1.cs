@@ -13,6 +13,7 @@ namespace CassaApp
         public Form1()
         {
             InitializeComponent();
+            
         }
     }
 }
